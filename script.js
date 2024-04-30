@@ -19,7 +19,7 @@ setTimeout(() => {
                                     setTimeout(() => {
                                         document.getElementById("main").innerHTML = "1";
                                         setTimeout(() => {
-                                            document.getElementById("main").innerHTML = "Happy Independence Day";
+                                            document.getElementById("main").innerHTML = "Happy Labours Day";
                                         }, 1000)
                                     }, 1000)
                                 }, 1000)
